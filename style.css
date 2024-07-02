@@ -291,7 +291,7 @@ footer {
   .content {
     padding-top: 20rem;
     padding: 0 2rem;
-    width: 400px;
+    width: 300px;
   }
 
   .title-info {
@@ -309,7 +309,7 @@ footer {
   }
 
   .gallery img {
-    width: 400px;
+    width: 300px;
   }
 
 }
